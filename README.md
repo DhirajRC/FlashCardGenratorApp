@@ -42,7 +42,7 @@ Frontend: HTML, CSS, JavaScript, React JS, React Redux, Formik, Tailwind CSS
 1. Clone the project:
 
    ```bash
-   git clone https://github.com/mayuryalij/Flashcard-Generator-App.git
+   git clone https://github.com/DhirajRC/Flashcard-Generator-App.git
    ```
 
 2. Navigate to the project directory:
